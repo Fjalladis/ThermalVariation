@@ -13,7 +13,7 @@ library(ggplot2)
 library(readxl)
 
 #load data
-dataE <- read_xlsx("dataE.xlsx")
+dataE <- read_xlsx("dataTPC.xlsx")
 
 # show the data
 ggplot(dataE, aes(Temp, Rate)) +
