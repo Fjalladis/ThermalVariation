@@ -6,7 +6,7 @@ Includes all raw and subsequently processed data to reproduce the results.
 This R script is for experiment 1 (Thermal performance estimates)
 
 You need the files
-- dataE
+- dataTPC
 - Oneill
 
 **Analyses2**
@@ -32,6 +32,7 @@ to calculate intrinsic mortality you need:
 
 to calculate cannibalism you need:
 - finalInter
+- Cannibalism
 
 to calculate growth you need:
 - InitialInter
